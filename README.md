@@ -1,7 +1,6 @@
+![I am Web Devoloper](https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/481056421_122106887900779471_8661245770063586561_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGmRzCGD8thcn1wv4qvuupQQAq2lCrn5D9ACraUKufkPzij5PBb_Hh9A141-JuTnlgS2T3OsMfWZuAXRN2RBKeU&_nc_ohc=Yb6A38SsHJwQ7kNvwEwjnrM&_nc_oc=Adm3e0Y_kc6p0jm26C18O5BJ0vrGijm3RLXIzooB_cYt4kpPFg3YMUwgldg1aoRs3KQ&_nc_zt=23&_nc_ht=scontent.fjsr11-1.fna&_nc_gid=-ubEhPXEnTMcyxHUx7WxnA&oh=00_AfTqYbP6cQuXOW6C0cJ7JsrUihCWts6tcqOqFBpmLTmdTQ&oe=68845907)
 ### Hi there 👋, Biswazit
 #### I am Web Devoloper
-![I am Web Devoloper](https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/481056421_122106887900779471_8661245770063586561_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGmRzCGD8thcn1wv4qvuupQQAq2lCrn5D9ACraUKufkPzij5PBb_Hh9A141-JuTnlgS2T3OsMfWZuAXRN2RBKeU&_nc_ohc=Yb6A38SsHJwQ7kNvwEwjnrM&_nc_oc=Adm3e0Y_kc6p0jm26C18O5BJ0vrGijm3RLXIzooB_cYt4kpPFg3YMUwgldg1aoRs3KQ&_nc_zt=23&_nc_ht=scontent.fjsr11-1.fna&_nc_gid=-ubEhPXEnTMcyxHUx7WxnA&oh=00_AfTqYbP6cQuXOW6C0cJ7JsrUihCWts6tcqOqFBpmLTmdTQ&oe=68845907)
-
 Hi, I’m Biswazit, a passionate Web Developer from Bangladesh  with 1+ years of experience in building stunning and high-performing websites.
 
 I specialize in:
