@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Biswazit
-#### I am a Web Developer
+#### I am a Full stack Web Developer
 ![I am a Web Developer](https://github.com/Biswazit2006/Programing-Notes/blob/main/retouch_2025030116392167%20(1).jpg)
 
-Hi, I’m Biswazit, a passionate Web Developer from Bangladesh with 4+ years of experience in building stunning and high-performing websites.
+Hi, I’m Biswazit, a passionate Full stack Web Developer from Bangladesh with 2+ years of experience in building stunning and high-performing websites.
 I specialize in:
- 🔹 Frontend Web Development (HTML, CSS, JavaScript, Bootstrap).
+ 🔹 Full Stack Web Development (HTML, CSS, JavaScript, Bootstrap,Tailwind,MERN,Next JS).
  🔹 Custom WordPress Website Design & Development .
  🔹 Landing Page Creation for businesses and campaigns.
  🔹 SEO Optimization to help you rank on Google .
@@ -12,10 +12,10 @@ I specialize in:
 
 Whether you need a modern website, a high-converting landing page, or SEO + ad services to boost your brand
 
-Skills: C/PHP/ HTML / CSS/JavaScript/Tailwind/bootstrap/React
+Skills: C/PHP/ HTML / CSS/JavaScript/Tailwind/bootstrap/React/RN/NextJs
 
- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Next.js 
+ 🔭 I’m currently working on a multivendor E-commerce website. 
+- 🌱 I’m currently learning AI/ML 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/biswazit2006)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/biswazit2006/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/biswazit2006)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/biswazit2006/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/biswazits2006)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/biswazit2006)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://biswazit.dev)  
